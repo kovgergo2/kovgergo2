@@ -1,0 +1,32 @@
+#content{
+	width: 888px;
+}
+#kepszoveg{
+	text-align: center;
+    font-style: italic, oblique;
+}
+h1, h2{
+    text-transform: uppercase;
+    color: forestgreen;
+}
+p, ul li, ol li{
+    text-align: justify;
+}
+#imageleft{
+    margin-right: 40px;
+    margin-bottom: 80px;
+    
+}
+#imageright{
+    margin-left: 20px;
+    width: 20%;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+body{
+    background-color: navajowhite;
+}
